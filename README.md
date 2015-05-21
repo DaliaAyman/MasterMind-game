@@ -1,5 +1,5 @@
 # MasterMind-game
-Computer Programming II (Java) course - Master Mind game
+Computer Programming II (Java) course, Fall 2013 - Master Mind game
 
 Implemented in MVC design pattern (Model/View/Controller)
 

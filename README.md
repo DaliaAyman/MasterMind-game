@@ -1,5 +1,5 @@
 # MasterMind-game
-Computer Programming II (Java) course, Fall 2013 - Master Mind game
+Computer Programming II (Java) course, Fall 2013 - simple Master Mind game
 
 Implemented in MVC design pattern (Model/View/Controller)
 
@@ -10,5 +10,5 @@ Implemented in MVC design pattern (Model/View/Controller)
 - Project Contributors:
   - Dalia Ayman Ahmed
   - Yomna Ali El-Din
-  - Fatma Gamal ElNagar
+  - Fatma Gamal El-Nagar
 
